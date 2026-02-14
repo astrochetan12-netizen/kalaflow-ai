@@ -36,3 +36,6 @@ Consent for recordings
 Respect cultural ownership
 Fair attribution to contributors
 
+## Why AI is Needed
+Manual documentation of skills is slow and limited. AI enables automatic extraction, structuring, and scaling of knowledge across languages and regions.
+
