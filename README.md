@@ -10,3 +10,7 @@ KalaFlow AI preserves cultural skills and makes them accessible through structur
 
 ## Impact
 Preserves cultural heritage and encourages skill discovery.
+
+## Future Vision
+
+KalaFlow AI aims to become a national knowledge platform that supports skill development, cultural preservation, and lifelong learning by continuously learning from practitioners across India.
