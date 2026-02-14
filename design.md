@@ -25,3 +25,7 @@ Consent-based uploads
 ## Scalability
 Cloud-native serverless architecture
 
+## Data Flow
+User uploads content → Processing pipeline → AI models → Knowledge graph → Learning modules → User interface
+
+
